@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+
+# Transformers (CPU)
+torch
+transformers
+datasets
+accelerate
